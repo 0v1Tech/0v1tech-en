@@ -1,0 +1,9 @@
+# robots.txt for 0v1Tech / OviTech
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://0v1tech.com/sitemap.xml
+
+# AI Assistants - see llms.txt for context
+# https://0v1tech.com/llms.txt
